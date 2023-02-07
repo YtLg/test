@@ -1,4 +1,7 @@
 # test
 git command tests
 
-- change 1.
+#amended change 1
+- change 1
+
+- change 2
